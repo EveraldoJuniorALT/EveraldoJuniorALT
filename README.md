@@ -10,12 +10,12 @@
 
 <div>
   <a href="https://github.com/EveraldoJuniorALT/github-readme-stats">
-  <img height="180em"
+  <img height="150em"
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=EveraldoJuniorALT&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" />
     </a> 
  <a href="https://github.com/EveraldoJuniorALT/github-readme-stats">
-   <img height="180em" align="center" 
+   <img height="150em" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveraldoJuniorALT&layout=compact&theme=highcontrast&hide_border=true"
      alt="Languages" />
      </a>
