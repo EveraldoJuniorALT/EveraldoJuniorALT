@@ -60,4 +60,4 @@
   </a> 
 </div>
 
-![Snake animation](https://github.com/EveraldoJuniorALT/EveraldoJuniorALT/blob/output/github-contributtion-grid-snake.svg)
+![Snake animation](https://github.com/EveraldoJuniorALT/EveraldoJuniorALT/blob/output/github-contribution-grid-snake.svg)
